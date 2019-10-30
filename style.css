@@ -4,6 +4,8 @@ body {
   line-height: 26px;
   font-family: "Arial", sans-serif;
   color: #222222;
+  width: 60%;
+  margin: auto;
 
   background: #ffffff url("img/bg-page.png") no-repeat top center;
 }
